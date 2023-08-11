@@ -17,10 +17,5 @@ In this assignment, you are tasked with constructing a training architecture as 
     - `RandomCrop(32, padding=4)`
     - `CutOut(16x16)`
 
-Upon completion:
-- Push the code to your GitHub repository.
-- Share the link to your code.
-- This README should contain a link to the main repository, facilitating a better understanding of your file structure.
 
-**Note**: When utilizing GradCAM for the misclassified images, ensure you make use of the library discussed in class. 
 
